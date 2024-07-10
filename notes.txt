@@ -1,0 +1,6 @@
+class 
+    carpark
+        no. of cars.
+        no. of motobikes.
+        no. of largespots.
+        no. of spaces.
